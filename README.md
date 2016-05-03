@@ -22,8 +22,11 @@ actually trying to make calls.
 
 Why shell, I use {perl,ruby,python,etc}@!? Simple; everyone's
 system differs. Rather than create a makefile and install yet more
-software on your machine, the system relies on what's almost
-always going to be available. Ugly, but functional.
+software on your machine, the system relies on what's always going
+to be available... Shell scripting
 
 Requires: tshark and... that's it. Change the email address to get
 alerts sent upon the someone logging onto the honeypot.
+
+TSHARK
+https://www.wireshark.org/download.html

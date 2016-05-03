@@ -28,5 +28,6 @@ to be available... Shell scripting
 Requires: tshark and... that's it. Change the email address to get
 alerts sent upon the someone logging onto the honeypot.
 
-## TSHARK
+## Requirements:
+TSHARK
 https://www.wireshark.org/download.html
